@@ -1,29 +1,13 @@
 ### Hi there 👋
 
-<!--
-**Mkheir13/Mkheir13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a Forum for my School
+- 🌱 I’m currently learning many languages like C++, Go, JavaScript, Python.
 
 
 I am a French programmer in training, I hope one day to share a repository with you :)
 
-
-### Languages im learning :
-
-![C++](https://img.shields.io/badge/C++-#D0800?style=flat-square&logo=cplusplus)
-![Go](https://img.shields.io/badge/Go-#D0800?style=flat-square&logo=go)
-![JavaScript](https://img.shields.io/badge/JavaScript-#D0800?style=flat-square&logo=javascript)
 
 ### Statistics!
 
