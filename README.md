@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+I am a French programmer in training, I hope one day to share a repository with you :)
+
 
 - 🔭 I’m currently working on a Forum for my School
 - 🌱 I’m currently learning many languages like C++, Go, JavaScript, Python.
-
-
-I am a French programmer in training, I hope one day to share a repository with you :)
 
 
 ### Statistics!
