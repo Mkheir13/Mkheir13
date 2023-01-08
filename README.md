@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mederreg Kheir-eddine</h1>
 <h3 align="center">Student at Ynov Aix Campus</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mkheir13&label=Profile%20views&color=0e75b6&style=flat" alt="mkheir13" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mkheir13&label=Profile%20views&color=60d697&style=flat" alt="mkheir13" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mkheir13" alt="mkheir13" /></a> </p>
 
@@ -15,7 +15,6 @@
 
 - ⚡ Fun fact **i am a really good support on OW2**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
